@@ -11,14 +11,18 @@ O EcoControl foi projetado para cobrir todas as frentes da empresa, desde a estr
 1️⃣ Painel Estratégico (Core & Admin)
 Dashboards Inteligentes: Monitoramento em tempo real de métricas críticas, status de frotas e indicadores de produtividade através de gráficos dinâmicos.
 Gestão de Níveis de Acesso: Interfaces distintas para Administradores e Funcionários, garantindo que cada usuário tenha acesso apenas ao que é essencial para sua função.
+
 2️⃣ Poder Operacional (Logística e Frota)
 Controle de Caminhões e Manutenções: Gestão detalhada de cada veículo, com alertas de manutenção preventiva e histórico de uso.
 Roteirização e Entregas: Módulo avançado para criação de rotas, monitoramento de viagens e acompanhamento de entregas em tempo real.
+
 3️⃣ Gestão de Relacionamento e Insumos
 Módulo de Clientes e Cidades: Hub centralizado para gestão da carteira de clientes e inteligência geográfica.
 Controle de Produtos e Materiais: Cadastro completo de insumos, facilitando a requisição e o uso de materiais em campo.
+
 4️⃣ Comunicação Centralizada (Chat Único)
 Canal Exclusivo: Implementei um Chat IntegradoÚnico, que centraliza a comunicação interna entre a administração e a equipe de campo, eliminando ruídos e garantindo que todas as instruções fiquem registradas dentro do ecossistema do sistema.
+
 📈 Aprovação e Entrega
 O sistema não é apenas um projeto conceitual; ele foi testado no dia a dia pela Agreste Construções. A fase de testes validou a usabilidade e a estabilidade de cada tela e função que desenvolvi, garantindo que o software está pronto para escalar as operações da empresa em 2026.
 
